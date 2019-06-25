@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-07-01"
   date_end = ""
-  description ="""  
+  description ="""
+    
   * Developed scripts for automating the data cleansing process.
   * Built custom data visualization tools and web applications for data monitoring and monthly reporting.
   """
@@ -36,7 +37,8 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-02-27"
   date_end = "2019-01-15"
-  description = """&nbsp;
+  description = """
+      
   * Provided guidance to marketing teams and agencies to develop clearly defined data architure.
   * Developed scripts and ETL logics to standardize data from major marketing platforms including Google Analytics, Facebook, and Youtube API.
   * Supported and maintained accurate and organized data reporting repository for multiple Fortune 500 companies.

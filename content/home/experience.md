@@ -50,9 +50,9 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2015-07-01"
   date_end = "2017-02-01"
-  description = """<br><br/>
-  * Responsible for compiling, processing, and quality checking wind farm operational data.
-  * Clean and processed data collected from over 1500 wind turbines across the United States and identified potential operational deficiencies using outlier detection algorithms
+  description = """<br/>
+  * Responsible for compiling, processing, and quality checking wind farm operational data.<br/>
+  * Clean and processed data collected from over 1500 wind turbines across the United States and identified potential operational deficiencies using outlier detection algorithms.<br/>
   * Successfully identified wind turbine controller issue that was unnoticed in months. Preventing estimated revenue loss of $250,000."""
 
 [[experience]]

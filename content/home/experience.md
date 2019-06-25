@@ -39,6 +39,7 @@ date_format = "Jan 2006"
   date_end = "2019-01-15"
   description = """
 
+
   * Provided guidance to marketing teams and agencies to develop clearly defined data architure.
   * Developed scripts and ETL logics to standardize data from major marketing platforms including Google Analytics, Facebook, and Youtube API.
   * Supported and maintained accurate and organized data reporting repository for multiple Fortune 500 companies.
@@ -53,6 +54,7 @@ date_format = "Jan 2006"
   date_end = "2017-02-01"
   description = """
 
+
   * Responsible for compiling, processing, and quality checking wind farm operational data.
   * Clean and processed data collected from over 1500 wind turbines across the United States and identified potential operational deficiencies using outlier detection algorithms
   * Successfully identified wind turbine controller issue that was unnoticed in months. Preventing estimated revenue loss of $250,000."""
@@ -65,6 +67,7 @@ date_format = "Jan 2006"
   date_start = "2014-09-01"
   date_end = "2015-05-01"
   description = """
+  Responsibilities include:
 
   * Research on invasive fire ant habitation on Indonesian islands using statistical models.
   * Digitize Indonesian island outlines, ant habitation range, and classify amount of vegetation cover using image recognition.

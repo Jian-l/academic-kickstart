@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: B.A in Statistics
+  - course: Bachelor of Statistics
     institution: University of California, Berkeley
     year: 2015
-  - course: B.A in Geographic Information Science
+  - course: Bachelor of Geographic Information Science
     institution: University of California, Berkeley
     year: 2015
 

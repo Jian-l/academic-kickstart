@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-07-01"
   date_end = ""
-  description ="""
-    
+  description ="""\r  
   * Developed scripts for automating the data cleansing process.
   * Built custom data visualization tools and web applications for data monitoring and monthly reporting.
   """
@@ -50,9 +49,9 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2015-07-01"
   date_end = "2017-02-01"
-  description = """<br/>
-  * Responsible for compiling, processing, and quality checking wind farm operational data.<br/>
-  * Clean and processed data collected from over 1500 wind turbines across the United States and identified potential operational deficiencies using outlier detection algorithms.<br/>
+  description = """\r
+  * Responsible for compiling, processing, and quality checking wind farm operational data.
+  * Clean and processed data collected from over 1500 wind turbines across the United States and identified potential operational deficiencies using outlier detection algorithms
   * Successfully identified wind turbine controller issue that was unnoticed in months. Preventing estimated revenue loss of $250,000."""
 
 [[experience]]
@@ -62,7 +61,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2014-09-01"
   date_end = "2015-05-01"
-  description = """
+  description = """\r
   * Research on invasive fire ant habitation on Indonesian islands using statistical models.
   * Digitize Indonesian island outlines, ant habitation range, and classify amount of vegetation cover using image recognition.
   * Import collected GPS data into ArcGIS and correct for coordinate and projections.

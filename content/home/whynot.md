@@ -14,7 +14,7 @@ subtitle = "Not Jian Li?"
 
 +++
 
-Welcome to the **Academic Kickstart** template!
+You may wonder why the url is not jian li. The story behind the url is this:
 
 1. Web domains are hard to come by and jianli.com was taken.
 2. CV or 简历 (jiǎn lì) in chinese have similar pronunciation in chinese and is spelled identically to my name.

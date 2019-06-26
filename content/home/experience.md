@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2017-02-27"
   date_end = "2019-01-15"
   description = """<br  />
-  <ul>  
+  <ul>
   <li>Provided guidance to marketing teams and agencies to develop clearly defined data architure.</li>
   <li>Developed scripts and ETL logics to standardize data from major marketing platforms including Google Analytics, Facebook, and Youtube API.</li>
   <li>Supported and maintained accurate and organized data reporting repository for multiple Fortune 500 companies.</li>

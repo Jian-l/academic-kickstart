@@ -21,9 +21,9 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Data Science / Statistics
+- Data science / statistics
 - Data visualization
-- Hobby indie game developer
+- Indie game development
 
 education:
   courses:

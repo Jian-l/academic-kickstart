@@ -62,11 +62,11 @@ date_format = "Jan 2006"
   location = "Berkeley, California"
   date_start = "2014-09-01"
   date_end = "2015-05-01"
-  description = <br />"""\n  
-  
-  * Research on invasive fire ant habitation on Indonesian islands using statistical models.
-  * Digitize Indonesian island outlines, ant habitation range, and classify amount of vegetation cover using image recognition.
-  * Import collected GPS data into ArcGIS and correct for coordinate and projections.
-  * Maintain and update Geodatabase as new data records are collected."""
+  description = """<br  />
+  <ul>
+  <li>Research on invasive fire ant habitation on Indonesian islands using statistical models.</li>
+  <li>Digitize Indonesian island outlines, ant habitation range, and classify amount of vegetation cover using image recognition.</li>
+  <li>Import collected GPS data into ArcGIS and correct for coordinate and projections.</li>
+  <li>Maintain and update Geodatabase as new data records are collected.</li>"""
 
 +++

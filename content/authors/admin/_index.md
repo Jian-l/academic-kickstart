@@ -61,6 +61,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi, my name is Jian Li and this is my jiǎn lì (简历). It's a play on words that the chinese word and pronunciation of Résumé is similar to my first and last name. This website is intended to be just that, a jiǎn lì. If you have a opportunity or project that could use my help or just want to get in touch, then let's resume this conversation. 

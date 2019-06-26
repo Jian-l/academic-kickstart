@@ -24,9 +24,12 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-07-01"
   date_end = ""
-  description ="""  
-  * Developed scripts for automating the data cleansing process.
-  * Built custom data visualization tools and web applications for data monitoring and monthly reporting.
+  description ="""
+  <br  />
+  <ul>  
+  <li>Developed scripts for automating the data cleansing process.</li>
+  <li>Built custom data visualization tools and web applications for data monitoring and monthly reporting.</li>
+  </ul>
   """
 
 [[experience]]
@@ -36,10 +39,13 @@ date_format = "Jan 2006"
   location = "San Mateo, California"
   date_start = "2017-02-27"
   date_end = "2019-01-15"
-  description = """\n  
-  * Provided guidance to marketing teams and agencies to develop clearly defined data architure.
-  * Developed scripts and ETL logics to standardize data from major marketing platforms including Google Analytics, Facebook, and Youtube API.
-  * Supported and maintained accurate and organized data reporting repository for multiple Fortune 500 companies.
+  description = """
+  <br  />
+  <ul>  
+  <li>Provided guidance to marketing teams and agencies to develop clearly defined data architure.</li>
+  <li>Developed scripts and ETL logics to standardize data from major marketing platforms including Google Analytics, Facebook, and Youtube API.</li>
+  <li>Supported and maintained accurate and organized data reporting repository for multiple Fortune 500 companies.</li>
+  </ul>
   """
 
 [[experience]]
@@ -49,11 +55,13 @@ date_format = "Jan 2006"
   location = "San Francisco, California"
   date_start = "2015-07-01"
   date_end = "2017-02-01"
-  description = """\n  
-
-  * Responsible for compiling, processing, and quality checking wind farm operational data.
-  * Clean and processed data collected from over 1500 wind turbines across the United States and identified potential operational deficiencies using outlier detection algorithms
-  * Successfully identified wind turbine controller issue that was unnoticed in months. Preventing estimated revenue loss of $250,000."""
+  description = """
+  <br  />
+  <ul>
+  <li>Responsible for compiling, processing, and quality checking wind farm operational data.</li>
+  <li>Clean and processed data collected from over 1500 wind turbines across the United States and identified potential operational deficiencies using outlier detection algorithms.</li>
+  <li>Successfully identified wind turbine controller issue that was unnoticed in months. Preventing estimated revenue loss of $250,000.</li>
+  </ul>"""
 
 [[experience]]
   title = "Undergraduate Research Assistant"
@@ -67,6 +75,7 @@ date_format = "Jan 2006"
   <li>Research on invasive fire ant habitation on Indonesian islands using statistical models.</li>
   <li>Digitize Indonesian island outlines, ant habitation range, and classify amount of vegetation cover using image recognition.</li>
   <li>Import collected GPS data into ArcGIS and correct for coordinate and projections.</li>
-  <li>Maintain and update Geodatabase as new data records are collected.</li>"""
+  <li>Maintain and update Geodatabase as new data records are collected.</li>
+  </ul>"""
 
 +++

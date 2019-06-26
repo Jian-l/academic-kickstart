@@ -60,6 +60,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
--Hi, my name is Jian Li and this is my jiǎn lì (简历). It's a play on words that the chinese word and pronunciation of Résumé is similar to my first and last name. This website is intended to be just that, a jiǎn lì. If you have a opportunity or project that could use my help or just want to say hey, let us get in touch and resume the conversation.
--
+ 
+Hi, my name is Jian Li and this is my jiǎn lì (简历). It's a play on words that the chinese word and pronunciation of Résumé is similar to my first and last name. This website is intended to be just that, a jiǎn lì. If you have a opportunity or project that could use my help or just want to say hey, let us get in touch and resume the conversation.

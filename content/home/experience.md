@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   location = "Berkeley, California"
   date_start = "2014-09-01"
   date_end = "2015-05-01"
-  description = """\n  
+  description = <br />"""\n  
   
   * Research on invasive fire ant habitation on Indonesian islands using statistical models.
   * Digitize Indonesian island outlines, ant habitation range, and classify amount of vegetation cover using image recognition.

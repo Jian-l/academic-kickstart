@@ -24,9 +24,8 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-07-01"
   date_end = ""
-  description ="""
-  <br  />
-  <ul>  
+  description ="""<br  />
+  <ul>
   <li>Developed scripts for automating the data cleansing process.</li>
   <li>Built custom data visualization tools and web applications for data monitoring and monthly reporting.</li>
   </ul>
@@ -39,8 +38,7 @@ date_format = "Jan 2006"
   location = "San Mateo, California"
   date_start = "2017-02-27"
   date_end = "2019-01-15"
-  description = """
-  <br  />
+  description = """<br  />
   <ul>  
   <li>Provided guidance to marketing teams and agencies to develop clearly defined data architure.</li>
   <li>Developed scripts and ETL logics to standardize data from major marketing platforms including Google Analytics, Facebook, and Youtube API.</li>
@@ -55,8 +53,7 @@ date_format = "Jan 2006"
   location = "San Francisco, California"
   date_start = "2015-07-01"
   date_end = "2017-02-01"
-  description = """
-  <br  />
+  description = """<br  />
   <ul>
   <li>Responsible for compiling, processing, and quality checking wind farm operational data.</li>
   <li>Clean and processed data collected from over 1500 wind turbines across the United States and identified potential operational deficiencies using outlier detection algorithms.</li>

@@ -26,8 +26,9 @@ date_format = "Jan 2006"
   date_end = ""
   description ="""<br  />
   <ul>
-  <li>Developed scripts for automating the data cleansing process.</li>
-  <li>Built custom data visualization tools and web applications for data monitoring and monthly reporting.</li>
+  <li>Developed and implemented work flow to automate data retrieval and storage using RESTful API.</li>
+  <li>Built and maintained interactive web dashboard application and back-end database for data quality monitoring.</li>
+  <li>Developed tools to automate monthly report generation to accurately scale up and accelerate the report delivery process.</li>
   </ul>
   """
 
@@ -40,9 +41,9 @@ date_format = "Jan 2006"
   date_end = "2019-01-15"
   description = """<br  />
   <ul>
-  <li>Provided guidance to marketing teams and agencies to develop clearly defined data architure.</li>
-  <li>Developed scripts and ETL logics to standardize data from major marketing platforms including Google Analytics, Facebook, and Youtube API.</li>
-  <li>Supported and maintained accurate and organized data reporting repository for multiple Fortune 500 companies.</li>
+  <li>Provide consultation for clients to translate business objectives into functional data requirements and balance them with technical feasibility.</li>
+  <li>Collaborate with engineering and product team to build ETL pipelines and feature requests to improve the platform.</li>
+  <li>Collaborate with client teams on development of insight-driven dashboards and provide support regarding functionality and data integrity.</li>
   </ul>
   """
 
@@ -55,9 +56,9 @@ date_format = "Jan 2006"
   date_end = "2017-02-01"
   description = """<br  />
   <ul>
-  <li>Responsible for compiling, processing, and quality checking wind farm operational data.</li>
-  <li>Clean and processed data collected from over 1500 wind turbines across the United States and identified potential operational deficiencies using outlier detection algorithms.</li>
-  <li>Successfully identified wind turbine controller issue that was unnoticed in months. Preventing estimated revenue loss of $250,000.</li>
+  <li>Developed and utilized Python scripts to pull, clean, and analyze wind farm operational data from over 1,000 turbines to identify potential operational issue using outlier detection algorithms.</li>
+  <li>• Assisted in statistical analysis in accessing power efficiency gains of various wind turbine technology upgrades.</li>
+  <li>Responsible for compiling, processing, and quality checking operational data requests used for revenue budgeting.</li>
   </ul>"""
 
 [[experience]]
@@ -69,10 +70,9 @@ date_format = "Jan 2006"
   date_end = "2015-05-01"
   description = """<br  />
   <ul>
-  <li>Research on invasive fire ant habitation on Indonesian islands using statistical models.</li>
-  <li>Digitize Indonesian island outlines, ant habitation range, and classify amount of vegetation cover using image recognition.</li>
-  <li>Import collected GPS data into ArcGIS and correct for coordinate and projections.</li>
-  <li>Maintain and update Geodatabase as new data records are collected.</li>
+  <li>Assisted in research on invasive fire ant specifies in Indonesian islands using statistical models.</li>
+  <li>Digitize Indonesian island outlines, habitation ranges, and classify amount of vegetation cover using image recognition.</li>
+  <li>Import collected GPS data into ArcGIS geodatabase and correct for coordinate and map projections.</li>
   </ul>"""
 
 +++

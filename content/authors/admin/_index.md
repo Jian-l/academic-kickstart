@@ -24,6 +24,7 @@ interests:
 - Data science / statistics
 - Data visualization
 - Indie game development
+- Taking road trips
 
 education:
   courses:
@@ -67,6 +68,6 @@ user_groups:
 - Visitors
 ---
  
-I'm a programmer, analyst, and gamer. I'm always interested in learning new things and tackling new problems. 
+I'm a programmer, analyst, and gamer. I'm always up for learning new things and tackling new problems. 
 
 Feel free to scroll down to learn more about me. 

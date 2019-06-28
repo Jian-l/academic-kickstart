@@ -53,6 +53,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/Jian_Li_Resume.pdf
+- icon: steam
+  icon_pack: fab
+  link: https://steamcommunity.com/id/rysdale/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,6 +67,6 @@ user_groups:
 - Visitors
 ---
  
-Hi, my name is Jian Li and this is my jiǎn lì (简历). It's a play on words that the chinese word and pronunciation of Résumé is similar to my first and last name. This website is intended to be just that, a jiǎn lì. 
+I'm a programmer, analyst, and gamer. I'm always interested in learning new things and tackling new problems. 
 
-If you have a opportunity or project that could use my help or just want to get a hold of the actual Jian Li, please feel free to get in touch and resume this conversation.
+Feel free to scroll down to learn more about me. 

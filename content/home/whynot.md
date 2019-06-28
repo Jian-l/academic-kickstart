@@ -14,8 +14,6 @@ subtitle = "Not Jian Li?"
 
 +++
 
-Web domains as you may have guess are hard to come by and jianli.com is unfortunately taken.
+**简历** (jiǎn lì) or resume, in chinese happens to have the same spelling as my name. 
 
-This website is a play on words that CV or **简历** (jiǎn lì) in chinese have similar pronunciation and is spelled identically to my name.
-
-This website is just intended to be a **简历**. If you have a project or opportunity that you think could use my help or just want to drop me a note, drop me a note and get in touch with the actual Jian Li.
+This website is only a jiǎn lì. If you want to get in touch with the real Jian Li, feel free to drop me a note in one of the places below.

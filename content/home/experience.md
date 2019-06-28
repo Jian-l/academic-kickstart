@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description ="""<br  />
   <ul>
-  <li>Developed and implemented work flow to automate data retrieval and storage using RESTful API.</li>
+  <li>Developed and implemented work flow to automate data retrieval and storage using REST API.</li>
   <li>Built and maintained interactive web dashboard application and back-end database for data quality monitoring.</li>
   <li>Developed tools to automate monthly report generation to accurately scale up and accelerate the report delivery process.</li>
   </ul>
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   description = """<br  />
   <ul>
   <li>Developed and utilized Python scripts to pull, clean, and analyze wind farm operational data from over 1,000 turbines to identify potential operational issue using outlier detection algorithms.</li>
-  <li>• Assisted in statistical analysis in accessing power efficiency gains of various wind turbine technology upgrades.</li>
+  <li>Assisted in statistical analysis in accessing power efficiency gains of various wind turbine technology upgrades.</li>
   <li>Responsible for compiling, processing, and quality checking operational data requests used for revenue budgeting.</li>
   </ul>"""
 
